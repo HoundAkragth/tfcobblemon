@@ -3,6 +3,14 @@
   "values": [
       "tfc:plains",
       "tfc:hills",
-      "tfc:low_canyons"
+      "tfc:low_canyons",
+      "tfc:doline_plains",
+      "tfc:cenote_plains",
+      "tfc:shilin_plains",
+      "tfc:cenote_hills",
+      "tfc:cenote_hills",
+      "tfc:doline_hills",
+      "tfc:shilin_hills",
+      "tfc:tower_karst_hills"
   ]
 }

@@ -20,7 +20,7 @@ public abstract class VivichokeMixin extends CropBlock {
 @Override
 protected boolean mayPlaceOn(BlockState state, BlockGetter level, BlockPos pos)
 {
-    return Helpers.isBlock(level.getBlockState(pos), TFCTags.Blocks.FARMLAND);
+    return Helpers.isBlock(level.getBlockState(pos), TFCTags.Blocks.FARMLANDS);
 }
 
 

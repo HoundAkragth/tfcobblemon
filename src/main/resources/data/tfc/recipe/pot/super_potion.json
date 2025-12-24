@@ -1,0 +1,34 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "item": "cobblemon:energy_root"
+    },
+    {
+      "item": "cobblemon:potion"
+    },
+    {
+      "item": "cobblemon:potion"
+    },
+    {
+      "item": "cobblemon:potion"
+    }
+  ],
+  "fluid_ingredient": {
+    "fluid": "minecraft:water",
+    "amount": 100
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    {
+      "id": "cobblemon:super_potion"
+    },
+    {
+      "id": "cobblemon:super_potion"
+    },
+    {
+      "id": "cobblemon:super_potion"
+    }
+  ]
+}

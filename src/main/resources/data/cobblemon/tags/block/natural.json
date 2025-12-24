@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc:grass",
+    "#tfc:mud",
+    "#cobblemon:rocky",
+    "#cobblemon:sandy",
+    "#tfc:sea_bush_plantable_on",
+    "#tfc:can_landslide",
+    "#tfc:monster_spawns_on"
+    ]
+}

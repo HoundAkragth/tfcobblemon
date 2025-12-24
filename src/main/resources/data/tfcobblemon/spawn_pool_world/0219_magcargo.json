@@ -7,7 +7,7 @@
             "id": "magcargo-tfc-1",
             "pokemon": "magcargo",
             "presets": [
-                "lava_surface"
+                "lava"
             ],
             "type": "pokemon",
             "context": "grounded",

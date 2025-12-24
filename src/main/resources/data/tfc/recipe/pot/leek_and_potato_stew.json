@@ -1,0 +1,33 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "type": "tfc:and",
+      "children": [
+        {"item": "tfc:food/potato"},
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "type": "tfc:and",
+      "children": [
+        {"item": "cobblemon:roasted_leek"},
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "fluid_ingredient": {
+    "fluid": "minecraft:water",
+    "amount": 100
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    {
+      "id": "cobblemon:leek_and_potato_stew"
+    }
+  ]
+}

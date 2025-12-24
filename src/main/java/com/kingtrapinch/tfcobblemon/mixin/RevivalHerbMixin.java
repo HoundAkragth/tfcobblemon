@@ -23,6 +23,6 @@ public abstract class RevivalHerbMixin extends CropBlock {
     @Override
     @ParametersAreNonnullByDefault
     protected boolean mayPlaceOn(BlockState p_51042_, BlockGetter p_51043_, BlockPos p_51044_) {
-        return super.mayPlaceOn(p_51042_, p_51043_, p_51044_) || p_51042_.is(TagKey.create(Registries.BLOCK, new ResourceLocation("tfc:mud"))) || p_51042_.is(TagKey.create(Registries.BLOCK, new ResourceLocation("tfc:farmland")));
+        return super.mayPlaceOn(p_51042_, p_51043_, p_51044_) || p_51042_.is(TagKey.create(Registries.BLOCK, ResourceLocation.parse("tfc:mud"))) || p_51042_.is(TagKey.create(Registries.BLOCK, ResourceLocation.parse("tfc:farmlands")));
     }
 }

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemon:roasted_leek",
+    "cobblemon:vivichoke"
+  ],
+  "remove": [
+    "cobblemon:medicinal_leek"
+  ]
+}

@@ -7,7 +7,7 @@
             "id": "slugma-tfc-1",
             "pokemon": "slugma",
             "presets": [
-                "lava_surface"
+                "lava"
             ],
             "type": "pokemon",
             "context": "grounded",

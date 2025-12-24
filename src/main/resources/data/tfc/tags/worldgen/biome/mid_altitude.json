@@ -4,6 +4,22 @@
       "tfc:rolling_hills",
       "tfc:plateau",
       "tfc:plateau_lake",
-      "tfc:canyons"
+      "tfc:canyons",
+      "tfc:cenote_rolling_hills",
+      "tfc:doline_rolling_hills",
+      "tfc:cenote_canyons",
+      "tfc:doline_canyons",
+      "tfc:low_canyons",
+      "tfc:shilin_canyons",
+      "tfc:stair_step_canyons",
+      "tfc:tower_karst_canyons",
+      "tfc:whorled_canyons",
+      "tfc:burren_plateau",
+      "tfc:cenote_plateau",
+      "tfc:doline_plateau",
+      "tfc:extreme_doline_plateau",
+      "tfc:plateau_wide",
+      "tfc:rocky_plateau",
+      "tfc:shilin_plateau"
   ]
 }

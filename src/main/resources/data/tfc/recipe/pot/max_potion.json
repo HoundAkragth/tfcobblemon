@@ -1,0 +1,38 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "type": "tfc:and",
+      "children": [
+        {"item": "cobblemon:vivichoke"},
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "item": "cobblemon:hyper_potion"
+    },
+    {
+      "item": "cobblemon:hyper_potion"
+    },
+    {
+      "item": "cobblemon:hyper_potion"
+    }
+  ],
+  "fluid_ingredient": {
+    "fluid": "minecraft:water",
+    "amount": 100
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    {
+      "id": "cobblemon:max_potion"
+    },
+    {
+      "id": "cobblemon:max_potion"
+    },
+    {
+      "id": "cobblemon:max_potion"
+    }
+  ]
+}

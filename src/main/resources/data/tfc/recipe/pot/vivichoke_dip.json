@@ -1,0 +1,40 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "type": "tfc:and",
+      "children": [
+        { "tag": "tfc:foods/breads"},
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "type": "tfc:and",
+      "children": [
+        { "tag": "tfc:foods/dairy"},
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "type": "tfc:and",
+      "children": [
+        { "item": "cobblemon:vivichoke" },
+        {"type": "tfc:not_rotten"}
+      ]
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "fluid_ingredient": {
+    "fluid": "minecraft:water",
+    "amount": 100
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "item_output": [
+    {
+      "id": "cobblemon:vivichoke_dip"
+    }
+  ]
+}

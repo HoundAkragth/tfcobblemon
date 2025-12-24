@@ -1,0 +1,33 @@
+{
+  "requirements": [
+    {
+      "variant": "properties",
+      "target": "bouffalant gender=female"
+    }
+  ],
+  "interactions": [
+    {
+      "grouping": "cobblemon:bucket",
+      "cooldown": "0",
+      "requirements": [
+        {
+          "variant": "owner_held_item",
+          "itemCondition": "tfc:wooden_bucket"
+        }
+      ],
+      "effects": [
+        {
+          "variant": "shrink_item"
+        },
+        {
+          "variant": "script",
+          "script":"q.run_command('give ' + q.player.username + ' tfc:wooden_bucket[tfc:fluid={id:\"minecraft:milk\",amount:1000}] 1')"
+        },
+        {
+          "variant": "play_sound",
+          "sound": "minecraft:item.bucket.fill"
+        }
+      ]
+    }
+  ]
+}

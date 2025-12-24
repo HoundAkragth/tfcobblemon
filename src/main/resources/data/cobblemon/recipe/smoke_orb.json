@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tfcobblemon:blank_orb"
+        },
+        {
+            "item": "tfc:powder/charcoal"
+        },
+        {
+            "item": "tfc:powder/charcoal"
+        },
+        {
+            "item": "tfc:powder/charcoal"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:smoke_ball",
+        "count": 1
+    }
+}

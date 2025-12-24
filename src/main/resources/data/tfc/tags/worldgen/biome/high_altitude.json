@@ -2,9 +2,22 @@
   "replace": false,
   "values": [
       "tfc:highlands",
+      "tfc:glacially_carved_mountains",
+      "tfc:glacially_carved_oceanic_mountains",
+      "tfc:glaciated_mountains",
+      "tfc:glaciated_oceanic_mountains",
+      "tfc:ice_sheet_mountains_edge",
+      "tfc:ice_sheet_mountains",
+      "tfc:ice_sheet_oceanic_mountains_edge",
+      "tfc:ice_sheet_oceanic_mountains",
       "tfc:mountains",
+      "tfc:oceanic_mountains",
       "tfc:old_mountains",
-      "tfc:mountain_lake",
-      "tfc:old_mountain_lake"
+      "tfc:volcanic_mountains",
+      "tfc:volcanic_oceanic_mountains",
+      "tfc:cenote_highlands",
+      "tfc:doline_highlands",
+      "tfc:shilin_highlands",
+      "tfc:tower_karst_highlands"
   ]
 }

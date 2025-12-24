@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "tfc:salt_marsh",
+    "tfc:mud_flats",
     "tfc:lowlands"
   ]
 }

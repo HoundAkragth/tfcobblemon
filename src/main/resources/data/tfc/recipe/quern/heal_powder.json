@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:revival_herb"
+  },
+  "result": {
+    "id": "cobblemon:heal_powder",
+    "count": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "cobblemon:medicinal_leek"
+  },
+  "hunger": 4,
+  "edible": false,
+  "decay_modifier": 2
+}

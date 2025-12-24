@@ -1,5 +1,4 @@
 {
-"replace": true,
   "condition": {
     "neededBaseBlocks": [
       "#cobblemon:natural"
@@ -7,7 +6,7 @@
   },
   "anticondition": {
 	  "neededBaseBlocks": [
-      "minecraft:farmland"
+      	"minecraft:farmland"
 	  ]
   }
 }

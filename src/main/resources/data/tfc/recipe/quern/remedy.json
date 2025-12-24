@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:big_root"
+  },
+  "result": {
+    "id": "cobblemon:remedy",
+    "count": 3
+  }
+}
