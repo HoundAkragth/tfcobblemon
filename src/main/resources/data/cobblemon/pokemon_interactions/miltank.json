@@ -35,7 +35,7 @@
       "requirements": [
         {
           "variant": "owner_held_item",
-          "itemCondition": "minecraft:glass_bottle"
+          "itemCondition": "#tfc:glass_bottles"
         }
       ],
       "effects": [
