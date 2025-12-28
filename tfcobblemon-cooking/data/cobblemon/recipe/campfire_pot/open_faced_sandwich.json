@@ -1,0 +1,40 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        [
+            {
+                "item": "tfc:food/maize_bread"
+            },
+            {
+                "item": "tfc:food/barley_bread"
+            },
+            {
+                "item": "tfc:food/rice_bread"
+            },
+            {
+                "item": "tfc:food/wheat_bread"
+            },
+            {
+                "item": "tfc:food/rye_bread"
+            },
+            {
+                "item": "tfc:food/oat_bread"
+            }
+        ],
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "tag": "c:foods/raw_meat"
+        },
+        {
+            "tag": "cobblemon:sandwich_veggies"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:open_faced_sandwich"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

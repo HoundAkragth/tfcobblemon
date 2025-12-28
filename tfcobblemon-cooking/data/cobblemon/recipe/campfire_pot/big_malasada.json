@@ -1,0 +1,23 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/grain"
+        },
+        {
+            "tag": "c:drinks/milk"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "tfc:food/melon_slice"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:big_malasada"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

@@ -1,0 +1,23 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/grain"
+        },
+        {
+            "item": "cobblemon:tasty_tail"
+        },
+        {
+            "item": "tfc:food/carrot"
+        },
+        {
+            "item": "tfc:food/peanut"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:smoked_tail_curry"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}
