@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "tfc:metal/sheet/copper",
-    "tfc:metal/sheet/bronze"
-    ]
-}
