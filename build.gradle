@@ -205,3 +205,21 @@ idea {
         downloadJavadoc = true
     }
 }
+
+def inputDir = file('datapacks')
+def outputDir = layout.buildDirectory.dir("zip")
+
+inputDir.listFiles().findAll { it.directory }.each { folder ->
+    tasks.register("zip${folder.name.capitalize()}", Zip) {
+        archiveFileName = "${folder.name}.zip"
+        destinationDirectory = outputDir
+        from folder
+    }
+}
+
+// Optional: Run all with one command
+tasks.register('zipAllFolders') {
+    dependsOn tasks.withType(Zip).matching { it.name.startsWith("zip") }
+}
+
+build.dependsOn zipAllFolders
