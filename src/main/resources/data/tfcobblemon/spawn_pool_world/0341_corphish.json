@@ -10,7 +10,7 @@
                 "warm_water"
             ],
             "type": "pokemon",
-            "context": "submerged",
+            "spawnablePositionType": "submerged",
             "bucket": "common",
             "level": "15-30",
             "weight": 10.0,

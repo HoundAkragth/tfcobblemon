@@ -10,7 +10,7 @@
                 "lava"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "surface",
             "bucket": "common",
             "level": "15-30",
             "weight": 10.0,

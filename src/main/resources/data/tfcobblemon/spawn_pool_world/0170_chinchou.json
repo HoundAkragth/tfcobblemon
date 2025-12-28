@@ -10,7 +10,7 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "submerged",
+            "spawnablePositionType": "submerged",
             "bucket": "common",
             "level": "25-35",
             "weight": 10.0,
@@ -28,7 +28,7 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "submerged",
+            "spawnablePositionType": "submerged",
             "bucket": "common",
             "level": "25-35",
             "weight": 20.0,

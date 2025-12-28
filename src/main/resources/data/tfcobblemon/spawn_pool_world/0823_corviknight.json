@@ -10,7 +10,7 @@
                 "northwest"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "uncommon",
             "level": "45-60",
             "weight": 100.0,

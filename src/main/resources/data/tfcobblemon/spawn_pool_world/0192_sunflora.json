@@ -10,7 +10,7 @@
                 "southwest"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "uncommon",
             "level": "40-55",
             "weight": 100.0,

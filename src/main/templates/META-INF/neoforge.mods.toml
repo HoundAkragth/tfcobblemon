@@ -89,6 +89,7 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]]
 modId = "tfc"
 mandatory = true
+type="required"
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
 versionRange = "[4.0.0,]"
 ordering = "AFTER"
@@ -97,6 +98,7 @@ side = "BOTH"
 [[dependencies.${mod_id}]]
 modId = "cobblemon"
 mandatory = true
+type="required"
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
 versionRange = "[1.7.0,]"
 ordering = "AFTER"

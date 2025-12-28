@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:simple_random_selector",
+    "config": {
+        "features": [
+            "tfcobblemon:plant/wild_crop/oran_berry_patch",
+            "tfcobblemon:plant/wild_crop/cheri_berry_patch",
+            "tfcobblemon:plant/wild_crop/chesto_berry_patch",
+            "tfcobblemon:plant/wild_crop/pecha_berry_patch",
+            "tfcobblemon:plant/wild_crop/rawst_berry_patch",
+            "tfcobblemon:plant/wild_crop/aspear_berry_patch",
+            "tfcobblemon:plant/wild_crop/persim_berry_patch",
+            "tfcobblemon:plant/wild_crop/razz_berry_patch",
+            "tfcobblemon:plant/wild_crop/bluk_berry_patch",
+            "tfcobblemon:plant/wild_crop/nanab_berry_patch",
+            "tfcobblemon:plant/wild_crop/wepear_berry_patch",
+            "tfcobblemon:plant/wild_crop/pinap_berry_patch",
+            "tfcobblemon:plant/wild_crop/occa_berry_patch",
+            "tfcobblemon:plant/wild_crop/wacan_berry_patch",
+            "tfcobblemon:plant/wild_crop/rindo_berry_patch",
+            "tfcobblemon:plant/wild_crop/yache_berry_patch",
+            "tfcobblemon:plant/wild_crop/chople_berry_patch",
+            "tfcobblemon:plant/wild_crop/kebia_berry_patch",
+            "tfcobblemon:plant/wild_crop/shuca_berry_patch",
+            "tfcobblemon:plant/wild_crop/payapa_berry_patch",
+            "tfcobblemon:plant/wild_crop/tanga_berry_patch",
+            "tfcobblemon:plant/wild_crop/charti_berry_patch",
+            "tfcobblemon:plant/wild_crop/kasib_berry_patch",
+            "tfcobblemon:plant/wild_crop/haban_berry_patch",
+            "tfcobblemon:plant/wild_crop/colbur_berry_patch",
+            "tfcobblemon:plant/wild_crop/babiri_berry_patch",
+            "tfcobblemon:plant/wild_crop/chilan_berry_patch"
+        ]
+    }
+}

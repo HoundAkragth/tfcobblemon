@@ -141,6 +141,7 @@ dependencies {
 
     implementation "curse.maven:terrafirmacraft-302973:7301272"
     implementation "curse.maven:cobblemon-687131:7273151"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.9.23"
 
     // Example mod dependency using a file as dependency
     // implementation files("libs/coolmod-${mc_version}-${coolmod_version}.jar")

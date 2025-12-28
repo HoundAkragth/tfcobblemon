@@ -10,7 +10,7 @@
                 "northeast"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "common",
             "level": "40-55",
             "weight": 100.0,

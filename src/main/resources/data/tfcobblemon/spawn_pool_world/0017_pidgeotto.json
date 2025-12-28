@@ -10,7 +10,7 @@
                 "central-seasonal"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "common",
             "level": "20-40",
             "weight": 10.0,

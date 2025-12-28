@@ -1,0 +1,16 @@
+{
+    "feature": "tfcobblemon:plant/wild_crop/persim_berry_patch",
+    "placement": [
+        {
+            "type": "minecraft:heightmap",
+            "heightmap": "WORLD_SURFACE_WG"
+        },
+        {
+            "type": "minecraft:in_square"
+        },
+        {
+            "type": "minecraft:rarity_filter",
+            "chance": 50
+        }
+    ]
+}

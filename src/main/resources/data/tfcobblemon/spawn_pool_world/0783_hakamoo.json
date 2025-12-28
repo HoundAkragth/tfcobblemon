@@ -10,7 +10,7 @@
                 "seasonal"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "rare",
             "level": "20-55",
             "weight": 10.0,

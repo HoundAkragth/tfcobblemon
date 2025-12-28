@@ -11,7 +11,7 @@
                 "sandy"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
@@ -31,7 +31,7 @@
                 "rocky"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "common",
             "level": "25-45",
             "weight": 10.0,

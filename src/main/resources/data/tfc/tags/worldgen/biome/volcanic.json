@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
       "tfc:volcanic_mountains",
-      "tfc:volcanic_oceanic_mountains"
+      "tfc:volcanic_oceanic_mountains",
+      "tfc:active_shield_volcano",
+      "tfc:dormant_shield_volcano",
+      "tfc:old_shield_volcano_shore"
   ]
 }

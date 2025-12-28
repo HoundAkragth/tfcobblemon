@@ -10,7 +10,7 @@
                 "cold"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "spawnablePositionType": "grounded",
             "bucket": "uncommon",
             "level": "40-60",
             "weight": 50.0,
