@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "tfc:straw"
+        }
+    },
+    "result": {
+        "id": "cobblemon:tatami_block",
+        "count": 2
+    }
+}
