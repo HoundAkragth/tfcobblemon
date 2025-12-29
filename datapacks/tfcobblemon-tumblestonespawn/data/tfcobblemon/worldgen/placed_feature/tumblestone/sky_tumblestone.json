@@ -1,0 +1,30 @@
+ {
+  "feature": "tfcobblemon:tumblestone/sky_tumblestone",
+  "placement": [
+	{
+		"type": "minecraft:in_square"
+	},
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+	{
+		"type": "minecraft:count",
+		"count": 5
+	},
+    {
+      "type": "cobblemon:locate_predicate",
+      "maxTries": 64,
+      "xzRange": 8,
+      "yRange": 1,
+      "predicate": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          { "type": "minecraft:matching_fluids", "offset": [0, -1, 0], "fluids": "tfc:spring_water" },
+          { "type": "minecraft:matching_fluids", "offset": [0, 0, 0], "fluids": "tfc:spring_water" },
+          { "type": "minecraft:matching_fluids", "offset": [0, 1, 0], "fluids": "tfc:spring_water" }
+        ]
+      }
+    }
+  ]
+}
