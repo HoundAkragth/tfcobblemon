@@ -1,3 +1,4 @@
+// Not working. Mixin works, though.
 EntityEvents.spawned("cobblemon:pokemon", event => {
     const {entity, player, server} = event
     let nbt = entity.serializeNBT();
