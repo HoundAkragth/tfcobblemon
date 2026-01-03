@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#c:stones/raw",
+    "#c:cobblestones",
+    "#c:stones/hardened",
+    "#tfc:dirt"
+  ]
+}
