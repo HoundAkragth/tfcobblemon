@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#tfc:grass_plantable_on"
+    "#tfc:grass_plantable_on",
+    "#tfc:dry_plant_plantable_on"
   ]
 }

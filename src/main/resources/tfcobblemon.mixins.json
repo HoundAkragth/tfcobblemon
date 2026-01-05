@@ -5,7 +5,10 @@
   "mixins": [
     "RevivalHerbMixin",
     "VivichokeMixin",
-    "PokemonBreathingMixin"
+    "PokemonBreathingMixin",
+    "PotionItemMixin",
+    "ElixirItemMixin",
+    "EtherItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1
