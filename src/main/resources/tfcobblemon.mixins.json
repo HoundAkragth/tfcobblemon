@@ -9,7 +9,8 @@
     "PotionItemMixin",
     "ElixirItemMixin",
     "EtherItemMixin",
-    "BagItemInstructionMixin"
+    "BagItemInstructionMixin",
+    "MintBlockMixin"
   ],
   "injectors": {
     "defaultRequire": 1
